@@ -1,6 +1,6 @@
 using System;
 
-public class Cat : Animal
+public class Cat : Animal //INHERITANCE
 {
 
     //ENCAPSULATION EXAMPLE

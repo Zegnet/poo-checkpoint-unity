@@ -1,6 +1,6 @@
 using System;
 
-public class Dog : Animal
+public class Dog : Animal //INHERITANCE
 {
     private int paws;
     private Boolean hasHair;
